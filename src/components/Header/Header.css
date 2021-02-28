@@ -1,0 +1,19 @@
+nav a{
+    text-decoration: none;
+    margin: 50px;
+    color: oldlace;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 14px;
+}
+nav{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.nav-container{
+    background-color: navy;
+}
+nav a:hover{
+    background-color: white;
+    color: black;
+}

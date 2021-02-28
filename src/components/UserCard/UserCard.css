@@ -1,0 +1,26 @@
+.user-container{
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 20rem;
+    height: 25rem;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.user-container img{
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.salary{
+    color: red;
+}
+.user-container button{
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgb(196, 209, 79);
+    background-color: goldenrod;
+    border-radius: 5px;
+    box-shadow: 4px 4px 9px gray;
+}
